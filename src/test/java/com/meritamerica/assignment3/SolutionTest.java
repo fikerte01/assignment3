@@ -38,6 +38,12 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
 
+import com.meritamerica.assignment3.account.AccountHolder;
+import com.meritamerica.assignment3.account.CDAccount;
+import com.meritamerica.assignment3.account.CDOffering;
+import com.meritamerica.assignment3.account.CheckingAccount;
+import com.meritamerica.assignment3.account.SavingsAccount;
+
 import static org.junit.Assert.*;
 
 import java.text.ParseException;
